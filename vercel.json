@@ -1,0 +1,12 @@
+{
+  "cleanUrls": true,
+  "routes": [
+    {
+      "src": "/",
+      "dest": "/Reward_Points_System.html"
+    },
+    {
+      "handle": "filesystem"
+    }
+  ]
+}
